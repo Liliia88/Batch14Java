@@ -32,8 +32,9 @@
  
  
   (github link personal)
-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
-
+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
+Password:
+Baikonur88
 
  1/create a new remote repository on a github
  2. establish the connection by using command -> git remote add origin (plus the link)
@@ -50,3 +51,4 @@ git add .
 git commit -m "..."
 git push
 ..
+...
