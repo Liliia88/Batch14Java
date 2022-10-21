@@ -67,3 +67,13 @@ class testerWebDriver{
          }
      }
  }
+ /*
+ interfce: eto ne class, a declaracia podderjki opredelennoi funcionalnosti classom kotorii implementiruet
+ etot interface (tot kto menya implementiruet должен podderjivat functionality).
+(primer: transport: dopustim est dve funcii, a v klasse ti raskrivaesh ih), ti doljna raskrit vse funcii.
+
+a abstractnii class eto obichnii class, no on ne podderjivaet cozdanie objectov, podderjivaet funcionalnost kotoraya
+otnositsya k gruppe objectov.
+ (primer: transport, mojet exat, no net ponimania chto eto takoe exat, a est rebenok mashina -
+ytochnyet chto takoe ekhat).
+*/

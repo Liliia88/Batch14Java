@@ -17,13 +17,12 @@ public class ReviewAselFruit {
     public void grow(){
         System.out.println("All fruits grow fresh "+fresh);
     }
-    protected void haveBenefits(){
-        System.out.println("");
+    public static void havePeel() {
+        System.out.println("All fruits need to be peeled");
     }
 
-    public static void main(String[] args) {
-
+    protected void haveBenefits() {
+        System.out.println("All fruits good for your health");
     }
-
 
 }

@@ -52,9 +52,12 @@ A variable that is created inside a method loop switch case or any block of code
  We should always go with local v if it is possible.
  But they are limited in scope we can't use local v outside of that block in which they are declared.
 
-for(int i=0; i<5;i++){
-System.out.println(i);
-}
+void bark() {
+        int i = 4; //local
+        for (int j = 0; j < i; j++) {
+            System.out.println("Barking..");
+        }
+    }
 
 Instance variables:
     Which are declared outside a black of code but inside a class are called instance variables.

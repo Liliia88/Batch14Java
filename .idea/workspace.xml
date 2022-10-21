@@ -5,6 +5,10 @@
       <change afterPath="$PROJECT_DIR$/src/class23Abstract/Banana.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/class07DoWhileForLoop/TerminalGitSteps" beforeDir="false" afterPath="$PROJECT_DIR$/src/class07DoWhileForLoop/TerminalGitSteps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class14CreateObjMethodes/NotesTypesOfVariablesAccessModifiers" beforeDir="false" afterPath="$PROJECT_DIR$/src/class14CreateObjMethodes/NotesTypesOfVariablesAccessModifiers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class22Polymorphism/OverridingPolymorphismFINALKeyword" beforeDir="false" afterPath="$PROJECT_DIR$/src/class22Polymorphism/OverridingPolymorphismFINALKeyword" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class23Abstract/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class23Abstract/Apple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class23Abstract/HW2Interface_WebDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class23Abstract/HW2Interface_WebDriver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/class23Abstract/ReviewAselFruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class23Abstract/ReviewAselFruit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,13 +57,13 @@
       <recent name="class14ReviewArraysString" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main5">
-    <configuration name="AnimalTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class22Polymorphism.AnimalTester" />
+  <component name="RunManager" selected="Application.Apple">
+    <configuration name="Apple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class23Abstract.Apple" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class22Polymorphism.*" />
+          <option name="PATTERN" value="class23Abstract.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Apple" />
         <item itemvalue="Application.Main5" />
         <item itemvalue="Application.Main31" />
         <item itemvalue="Application.Main30" />
         <item itemvalue="Application.testerWebDriver" />
-        <item itemvalue="Application.AnimalTester" />
       </list>
     </recent_temporary>
   </component>

@@ -24,6 +24,22 @@ What is the syntax to ovveride a method:
    1) First there must be a parent child relationship.
    2) in the child class just redefine the method.
 
+
+    /* when child class have same method name as super class -
+     * overriding - 2 methods with same name BUT inside Different classes
+     */
+
+    /* how to override
+     *
+     * 1. method signature MUST be same
+     * 2. return type MUST BE SAME
+     * 3. access modifier/visibility MUST be same or MUST be higher
+     *
+     */
+// when child class have same static method as parent class
+    // we are not achieving overriding.
+    // this calls method hiding
+
 Type casting in objects:
    As we can type cast in the primitive data types we can also type cast objects.
    like storing the object of a child class in a variable of parent type.
