@@ -1,0 +1,50 @@
+ assignment operator: =
+ arithmetic: +,-,*,/,%
+ relational: >,>=,<,<=,==,!=
+ Logical: &&, ||, !
+ 
+ logical AND &&
+ 
+ true && true --> TRUE
+ true && false --> FALSE
+ false && true --> FALSE
+ false && false --> FALSE
+ 
+ Logical OR ||
+ 
+ true|| true --> TRUE
+ true || false --> TRUE
+ false || true --> TRUE
+ false || false --> FALSE
+ 
+ Logical NOT
+ 
+ Compiler always checks our code before giving it 
+ to Java to execute it
+ 
+ compiler can initialize variables to it's default values:
+ 
+ int=0;
+ double=0.0;
+ boolean=false;
+ String and other non primitive =null;
+ 
+ double d=10;
+ SYstem.out.println(d);
+ 
+ Switch case - statement executes one statement from multiple 
+ values/conditions.
+ 
+ SYNTAX
+ 
+ switch (variable) {
+ case value1:
+ code A;
+ break;
+ case value2:
+ code B;
+ break;
+ default:
+ code C;
+ break;
+ 

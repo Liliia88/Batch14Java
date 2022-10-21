@@ -1,0 +1,51 @@
+What is an object?
+everything around us in an object for example keaboard, mouse, glass, etc.
+O. can be defined based on how they look and how they behave.
+O. in computer programming are also very similar. They have state (which helps us define how that o. 
+look like) and behaviors (what that o. does)
+
+What is Class:
+Class is blueprint/design/template from which we create the objects.
+
+
+
+Object oriented programming:
+
+Is just a way of writing programs.
+Why we should learn OOP?
+
+1.It simplify the development of large programs.
+2. it will also helps us maintain and modify the existing code.
+3. it helps use write more secure code.
+4. it helps us avoid duplicate code.
+
+What is the syntax?
+
+
+OOP HAS 4 MAIN PILLARS.
+1. Classes and objects
+2. Inheritance
+3.Polymorphism
+4. Abstraction
+5. Encapsulation
+
+Classes and Objects?
+A class is a template/Blueprint from which we create the objects.
+An object in programming is very similar to the o that we have in real life.
+
+Objects:
+
+O. have states
+
+  String class:
+String is the most widely used class in java. It helps us store and manipulate Text based data.
+  Why we should learn about String class and its methods.
+  
+String class has a lot of methods that can help us manipulate the text based data.
+That's why we don't need to write any logic we can simple create the object of the string
+class and can use the method from that class.
+  Syntax:
+  String str=new String ("I can't sleep if I don't solve Repls");
+  String str2="I can't sleep if I don't solve Repls";
+  str2.length();
+  

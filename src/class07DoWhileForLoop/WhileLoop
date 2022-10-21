@@ -1,0 +1,23 @@
+while vs do while --> both loops executes while condition is true
+
+while loop first CHECK condition --> if true -> executes code while first 
+executes CODE --> THEN CHECKS CONDITION
+
+for LOOP SYNTAX
+
+for (initialization; condition; increment/decrement) {
+code to be repeated;
+}
+
+// Hello 5 times
+
+for (int i=1; i<=5; i++) {
+
+ System.out.println("Hello");
+ 
+}
+when to use which loop:
+
+when we know in advance how many times to repeat block of code --> USE FOR LOOP
+
+when we do not know in advance how many times to reppeat block of code --> USE WHILE OR DO WHILE

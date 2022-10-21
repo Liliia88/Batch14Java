@@ -1,0 +1,16 @@
+&&, ||, !
+
+why we should learn them?
+- help us to reduce the num of if- conditions that we write in certain case.
+
+what is the syntax?
+- if (condition1 && condition2){
+sout "hello";}
+
+if (condition1){
+  if(condition2){
+  sout "Hello";
+  }
+  }Switch case:
+  similar to if else if conditions.
+  -less code, easier to read

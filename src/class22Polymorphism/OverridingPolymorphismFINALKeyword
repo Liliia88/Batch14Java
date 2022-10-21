@@ -1,0 +1,53 @@
+
+Method Overriding:
+    Method Overriding:
+        Allows us to have same name methods in parent and child classes.
+    Why we should Override a method:
+        Lets say we are inheritaning from a Parent class that has 10 methods. we like 8 of them. we want to reuse those
+        methods, but we don't like 2 of them we want to provide implementation in a different way. We can use method overriding.
+        to override those methods.
+    what is the syntax to override a method:
+        we simply redefine the method in the child class.
+
+
+
+if we use super inside the method ( it will print parent and child class!)
+
+
+Method Overriding:
+    Method overriding allows us to have same methods in parent and child classes.
+Why we should override a method?
+   1)When we inherit from a class everything other that private methods and constructors is inherited if we don't like
+    any method from the parent we can ovveride.
+   2) it helps us achieve polymorphism.
+What is the syntax to ovveride a method:
+   1) First there must be a parent child relationship.
+   2) in the child class just redefine the method.
+
+Type casting in objects:
+   As we can type cast in the primitive data types we can also type cast objects.
+   like storing the object of a child class in a variable of parent type.
+Why we should type cast objects?
+   with the  help of type casting we can start string the objects of child classes  in an array of type parent.
+What is the syntax to type cast?
+   It's same as primitive type casting for example if we have an animal class has a child class Cat we can do
+   Animal animal=new Cat();
+
+Polymorphism:
+  P. is the ability of a method to take many forms based on the object or the parameters that we pass to the method.
+Types of polymorphism:
+  There are 2 types of polymorphism:
+   1) Compile time/static/early binding or run time/dynamic or late binding.
+   Compile time/static/early binding:
+When we use method overloading to achieve polymorphism it is called time polymorphism.
+   Run time/dynamic or late binding:
+When we use method overriding to achieve polymorphism then it is called Run time polymorphism .
+
+Final Keyword:
+  It is just like any other keyword in java like class package void ets.
+Where are 3 main uses of final keyword.
+  1) If we use final keyword with a class no other class can inherit from that class.
+  2) If we use it with a method name no child class can override that method.
+  3) If we use it a field once the value has been assigned to that field no one can change it value afterwards.
+
+  POLYMORPHISM IS WORKING ONLY WITH INHERITANCE CGILD CLASSES
