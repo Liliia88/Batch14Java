@@ -77,7 +77,7 @@ When we need to share something
 
     Review:
   LOCAL VARIABLES:
-    -if a v. is declared inside a block of code like method, loop, if-cindition they are called l.v.
+    -if a v. is declared inside a block of code like method, loop, if-condition they are called l.v.
   Up-Side of a l.v.:
     -The upside is they exist for a very short amount of time in the memory, which means other programs on our computer
     can use that memory.
