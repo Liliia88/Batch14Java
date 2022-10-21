@@ -1,7 +1,7 @@
 package class14CreateObjMethodes;
 
 import java.util.Scanner;
-//test
+
 public class HW1LargestNum {
     void largest(int num1,int num2){
         if(num1>num2){

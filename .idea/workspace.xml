@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd52ece5-dd11-40fa-b482-41c7af446b15" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/class07DoWhileForLoop/TerminalGitSteps" beforeDir="false" afterPath="$PROJECT_DIR$/src/class07DoWhileForLoop/TerminalGitSteps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class14CreateObjMethodes/NotesTypesOfVariablesAccessModifiers" beforeDir="false" afterPath="$PROJECT_DIR$/src/class14CreateObjMethodes/NotesTypesOfVariablesAccessModifiers" afterDir="false" />
+    <list default="true" id="dd52ece5-dd11-40fa-b482-41c7af446b15" name="Changes" comment="test">
+      <change beforePath="$PROJECT_DIR$/src/class14CreateObjMethodes/HW1LargestNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class14CreateObjMethodes/HW1LargestNum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,6 +135,14 @@
       <option name="presentableId" value="Default" />
       <updated>1664129477928</updated>
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1666360725783</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666360725783</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,6 +160,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/src" />
     </ignored-roots>
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
