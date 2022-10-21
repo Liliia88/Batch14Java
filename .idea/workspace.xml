@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd52ece5-dd11-40fa-b482-41c7af446b15" name="Changes" comment="test">
-      <change beforePath="$PROJECT_DIR$/src/class14CreateObjMethodes/HW1LargestNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class14CreateObjMethodes/HW1LargestNum.java" afterDir="false" />
+    <list default="true" id="dd52ece5-dd11-40fa-b482-41c7af446b15" name="Changes" comment="test back">
+      <change afterPath="$PROJECT_DIR$/src/class14CreateObjMethodes/TypesOfvariables" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class14CreateObjMethodes/NotesTypesOfVariablesAccessModifiers" beforeDir="false" afterPath="$PROJECT_DIR$/src/class14CreateObjMethodes/NotesTypesOfVariablesAccessModifiers" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +144,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666360725783</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test back">
+      <created>1666360815092</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666360815092</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test back">
+      <created>1666361730281</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666361730281</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -161,7 +177,8 @@
       <path value="$PROJECT_DIR$/src" />
     </ignored-roots>
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="test back" />
+    <option name="LAST_COMMIT_MESSAGE" value="test back" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

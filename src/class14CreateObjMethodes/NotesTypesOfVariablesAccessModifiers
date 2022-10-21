@@ -96,6 +96,7 @@ When we need to share something
     1) when we need to share a value between 2 or more methods then we should go with i.v.
     2) When we are planning to create multiple objects of a class and it is possible that all the objects can have a different
     for that variable.
+
   STATIC VARIABLE:
     An instance v. with static keyword is called a static variable.
   Up-side:
