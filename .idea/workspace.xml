@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd52ece5-dd11-40fa-b482-41c7af446b15" name="Changes" comment="test back">
-      <change afterPath="$PROJECT_DIR$/src/class14CreateObjMethodes/TypesOfvariables" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroupProject2/CarTask3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroupProject2/MarksTask2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroupProject2/ShapeTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroupProject2/Task2SecondWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroupProject2/Task3SecondWayConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroupProject2/WebDriverTask4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class07DoWhileForLoop/TerminalGitSteps" beforeDir="false" afterPath="$PROJECT_DIR$/src/class07DoWhileForLoop/TerminalGitSteps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/class14CreateObjMethodes/NotesTypesOfVariablesAccessModifiers" beforeDir="false" afterPath="$PROJECT_DIR$/src/class14CreateObjMethodes/NotesTypesOfVariablesAccessModifiers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class14CreateObjMethodes/TypesOfvariables" beforeDir="false" afterPath="$PROJECT_DIR$/src/class14CreateObjMethodes/TypesOfvariables" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,15 +41,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/liliya.khusainova/Documents/QAStudy/SDETBatch14Java",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/liliya.khusainova/Documents/QAStudy/SDETBatch14Java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/class07DoWhileForLoop" />
@@ -52,13 +59,13 @@
       <recent name="class14ReviewArraysString" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Apple">
-    <configuration name="Apple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class23Abstract.Apple" />
+  <component name="RunManager" selected="Application.tester34">
+    <configuration name="tester30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GroupProject2.tester30" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class23Abstract.*" />
+          <option name="PATTERN" value="GroupProject2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReplsAllInteresting.Main30" />
+    <configuration name="tester31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GroupProject2.tester31" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ReplsAllInteresting.*" />
+          <option name="PATTERN" value="GroupProject2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReplsAllInteresting.Main31" />
+    <configuration name="tester32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GroupProject2.tester32" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ReplsAllInteresting.*" />
+          <option name="PATTERN" value="GroupProject2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReplsAllInteresting.Main5" />
+    <configuration name="tester33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GroupProject2.tester33" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ReplsAllInteresting.*" />
+          <option name="PATTERN" value="GroupProject2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testerWebDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class23Abstract.testerWebDriver" />
+    <configuration name="tester34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GroupProject2.tester34" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class23Abstract.*" />
+          <option name="PATTERN" value="GroupProject2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Apple" />
-        <item itemvalue="Application.Main5" />
-        <item itemvalue="Application.Main31" />
-        <item itemvalue="Application.Main30" />
-        <item itemvalue="Application.testerWebDriver" />
+        <item itemvalue="Application.tester34" />
+        <item itemvalue="Application.tester33" />
+        <item itemvalue="Application.tester32" />
+        <item itemvalue="Application.tester31" />
+        <item itemvalue="Application.tester30" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666361730281</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test back">
+      <created>1666371504949</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666371504949</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -222,6 +236,15 @@
           <url>file://$PROJECT_DIR$/src/class22Polymorphism/WebDriverTesting.java</url>
           <line>19</line>
           <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/GroupProject2/WebDriverTask4.java</url>
+          <line>21</line>
+          <properties class="GroupProject2.ChromeDriver" method="close">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

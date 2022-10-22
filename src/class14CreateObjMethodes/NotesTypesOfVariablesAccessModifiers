@@ -73,7 +73,7 @@ When we need to share something
 
     -local is used only within block of code (within METHOD)
     -instance is declared inside a class (within CLASS)
-    -Static v - we use ACROOS THE METHOD ACROOS THE CLASS
+    -Static v - we use AcROSS THE METHOD ACROSS THE CLASS
 
     Review:
   LOCAL VARIABLES:
