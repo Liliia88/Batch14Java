@@ -1,11 +1,12 @@
 package GroupProject2;
-public interface ShapeTask1 {
+
+public interface Task1Shape {
     /*Create an Interface 'Shape' with undefined methods as calculateArea and calculatePerimiter. Create 2 classes Circle &
 Square that implements functionality defined in the Shape Interface. Test your code.*/
     void calculateArea();
     void calculatePerimiter();
 }
-class Circle implements ShapeTask1 {
+class Circle implements Task1Shape {
      public void calculateArea(){
          System.out.println("way of difinding area of circle is P*radius*radius.");
     }
@@ -13,7 +14,7 @@ class Circle implements ShapeTask1 {
         System.out.println("way of difinding perimiter of circle is 2*radius*P.");
     }
 }
-class Square implements ShapeTask1 {
+class Square implements Task1Shape {
     public void calculateArea(){
         System.out.println("way of difinding area of square is lenthside*lenthside.");
     }
@@ -23,8 +24,8 @@ class Square implements ShapeTask1 {
 }
 class tester34{
     public static void main(String[] args) {
-        ShapeTask1[] shapeTask1 ={new Circle(), new Square()};
-        for (ShapeTask1 s: shapeTask1){
+        Task1Shape[] shapeTask1 ={new Circle(), new Square()};
+        for (Task1Shape s: shapeTask1){
             s.calculateArea();
             s.calculatePerimiter();
         }
