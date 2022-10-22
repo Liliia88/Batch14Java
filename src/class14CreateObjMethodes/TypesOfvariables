@@ -39,7 +39,7 @@ void bark() {
 So the value of variable for each object will be separate and unique from the value (data) for another and is not
 shared among instances(other objets).
 
-   //They occupy the memory for longer as compared to local v.
+   //They occupy the computer memory for longer as compared to local v.
 
    STATIC variables:
    If an instance variable has a keyword static is called a static variable.
