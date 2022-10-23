@@ -26,14 +26,13 @@
  to add file/folder to staging area - git add src
  
  step 6: move all files to the repository git commit -m "first commit"
- 
+
  (command shift . - TO ADD HIDDEN FOLDERS)
 
   (github link personal)
   MyTokenL:
 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
-
-
+//comment
 MyToken:
 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
 
