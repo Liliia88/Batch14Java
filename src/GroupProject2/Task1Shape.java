@@ -7,19 +7,22 @@ Square that implements functionality defined in the Shape Interface. Test your c
     void calculatePerimiter();
 }
 class Circle implements Task1Shape {
+    double radius=5;
+    double p=3.14;
      public void calculateArea(){
-         System.out.println("way of difinding area of circle is P*radius*radius.");
+         System.out.println("way of difinding area of circle is "+p*radius*radius);
     }
     public void calculatePerimiter(){
-        System.out.println("way of difinding perimiter of circle is 2*radius*P.");
+        System.out.println("way of difinding perimiter of circle is "+2*radius*p);
     }
 }
 class Square implements Task1Shape {
+    int lenthside=7;
     public void calculateArea(){
-        System.out.println("way of difinding area of square is lenthside*lenthside.");
+        System.out.println("way of difinding area of square is "+lenthside*lenthside);
     }
     public void calculatePerimiter(){
-        System.out.println("way of difinding perimiter of square is lenthside*4.");
+        System.out.println("way of difinding perimiter of square is "+lenthside*4);
     }
 }
 class tester34{
