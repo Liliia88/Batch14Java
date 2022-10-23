@@ -30,12 +30,18 @@
  (command shift . - TO ADD HIDDEN FOLDERS)
 
   (github link personal)
-  MyTokenL:
-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
 //comment
 MyToken:
 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
 
+Person:
+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
+
+git remote set-url origin https://<token>@github.com/<username>/<repo>.git
+<token> ----give token here <username> give username <repo> give repository url
+
+If I have a problem:
+git remote set-url origin https://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@github.com/Liliia88/https://github.com/Liliia88/Batch14.git
 Password:
 Baikonur88
 
