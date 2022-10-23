@@ -1,4 +1,4 @@
-package Class16DifferObjectMethods;
+package class16DifferObjectMethods;
 public class SergeiTask {
     /* Дали String aaaabbcccccddaa
     Надо получить a4b2c5d2a2

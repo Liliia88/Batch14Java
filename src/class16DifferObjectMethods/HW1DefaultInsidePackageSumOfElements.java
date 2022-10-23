@@ -1,4 +1,4 @@
-package Class16DifferObjectMethods;
+package class16DifferObjectMethods;
 
 public class HW1DefaultInsidePackageSumOfElements {
     /*Create a method that will accept an array as parameters and will return a sum of all elements from that array.

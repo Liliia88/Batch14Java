@@ -1,4 +1,4 @@
-package Class16DifferObjectMethods;
+package class16DifferObjectMethods;
 
 public class HW2ReversedStringPublicClass {
    /* Create a method that will take a String as a parameter and returns reversed String.

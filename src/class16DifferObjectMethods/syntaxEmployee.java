@@ -1,4 +1,4 @@
-package Class16DifferObjectMethods;
+package class16DifferObjectMethods;
 
 public class syntaxEmployee {
     String empId;

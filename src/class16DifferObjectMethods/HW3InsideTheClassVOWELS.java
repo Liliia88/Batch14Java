@@ -1,4 +1,4 @@
-package Class16DifferObjectMethods;
+package class16DifferObjectMethods;
 
 public class HW3InsideTheClassVOWELS {
     /*Create a method that will accept a String as a parameter and return a new String that consist only of vowels.
