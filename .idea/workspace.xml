@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd52ece5-dd11-40fa-b482-41c7af446b15" name="Changes" comment="test back">
+      <change afterPath="$PROJECT_DIR$/src/GroupProject2/Task1RomanWay.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GroupProject2/MarksTask2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupProject2/MarksTask2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GroupProject2/CarTask3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupProject2/Task3Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GroupProject2/MarksTask2Super.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupProject2/Task2MarksSuper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GroupProject2/ShapeTask1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupProject2/Task1Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GroupProject2/WebDriverTask4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupProject2/Task4WebDriver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -52,8 +56,8 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.tester34">
-    <configuration name="tester30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GroupProject2.tester30" />
+    <configuration name="ShapeTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GroupProject2.ShapeTester" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
@@ -120,10 +124,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.tester34" />
+        <item itemvalue="Application.ShapeTester" />
         <item itemvalue="Application.tester33" />
         <item itemvalue="Application.tester32" />
         <item itemvalue="Application.tester31" />
-        <item itemvalue="Application.tester30" />
       </list>
     </recent_temporary>
   </component>
@@ -229,10 +233,15 @@
           <line>19</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GroupProject2/Task2SecondWay.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/GroupProject2/WebDriverTask4.java</url>
+          <url>file://$PROJECT_DIR$/src/GroupProject2/Task4WebDriver.java</url>
           <line>21</line>
-          <properties class="GroupProject2.ChromeDriver" method="close">
+          <properties class="GroupProject2.ChromeDriver">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
