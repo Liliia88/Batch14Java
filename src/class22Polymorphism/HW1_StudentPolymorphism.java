@@ -41,6 +41,7 @@ class SchoolStudent extends HW1_StudentPolymorphism {
 }
 class classtester22{
     public static void main(String[] args) {
+       // HW1_StudentPolymorphism[] students;
         HW1_StudentPolymorphism[] students={new SyntaxStudent(),new CollegeStudent(),new SchoolStudent()};
         for (HW1_StudentPolymorphism student:students) {
             student.studenttype();
