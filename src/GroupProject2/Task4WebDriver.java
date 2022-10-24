@@ -26,9 +26,9 @@ class ChromeDriver implements RemoteWebdriver{
     public void navigate(){
         System.out.println("Get Chrome driver");
     }
-   // public void getScreenshot(){
-    //    System.out.println("get screenshot of Chrome web browser");
-   // }
+    public void getScreenshot(){
+        System.out.println("get screenshot of Chrome web browser");
+    }
 }
 
 class FirefoxDriver implements RemoteWebdriver{
