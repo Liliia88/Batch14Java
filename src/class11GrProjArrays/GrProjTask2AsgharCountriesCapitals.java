@@ -1,4 +1,4 @@
-package class11.GrProjArrays;
+package class11GrProjArrays;
 import java.util.Arrays;
 import java.util.Scanner;
 

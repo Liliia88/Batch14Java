@@ -1,4 +1,4 @@
-package class11.GrProjArrays;
+package class11GrProjArrays;
 
 public class GrProjTask9LargestSmallest {
 
