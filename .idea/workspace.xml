@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd52ece5-dd11-40fa-b482-41c7af446b15" name="Changes" comment="test back">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class24Incapsulation/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class24Incapsulation/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class24Incapsulation/DogAsghar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class24Incapsulation/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class24Incapsulation/WhyCollectionsFramework.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GroupProject2/Task4WebDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupProject2/Task4WebDriver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,13 +20,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/GroupProject2" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -52,7 +55,7 @@
       <recent name="class14ReviewArraysString" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.tester30">
+  <component name="RunManager" selected="Application.tester36">
     <configuration name="Inheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class02.Inheritance" />
       <module name="SDETBatch14Java" />
@@ -66,34 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShapeTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GroupProject2.ShapeTester" />
-      <module name="SDETBatch14Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="GroupProject2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="tester30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GroupProject2.tester30" />
-      <module name="SDETBatch14Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="GroupProject2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="tester33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GroupProject2.tester33" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
@@ -118,13 +95,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="tester35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class24Incapsulation.tester35" />
+      <module name="SDETBatch14Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class24Incapsulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tester36" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class24Incapsulation.tester36" />
+      <module name="SDETBatch14Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class24Incapsulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.tester36" />
+        <item itemvalue="Application.tester35" />
         <item itemvalue="Application.tester30" />
         <item itemvalue="Application.Inheritance" />
         <item itemvalue="Application.tester34" />
-        <item itemvalue="Application.ShapeTester" />
-        <item itemvalue="Application.tester33" />
       </list>
     </recent_temporary>
   </component>
