@@ -1,8 +1,8 @@
-package class24Incapsulation;
+package class24IncapsulationArrayListADD;
 
 import java.util.ArrayList;
 
-public class ArrayListDemo2 {
+public class ArrayListDemo2PrimitiveDatatypes {
     public static void main(String[] args) {
         ArrayList<Integer> numbers=new ArrayList<>();
         numbers.add(10);

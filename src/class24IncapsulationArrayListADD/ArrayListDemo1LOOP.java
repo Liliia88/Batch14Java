@@ -1,8 +1,8 @@
-package class24Incapsulation;
+package class24IncapsulationArrayListADD;
 
 import java.util.ArrayList;
 
-public class ArrayListDemo {
+public class ArrayListDemo1LOOP {
     public static void main(String[] args) {
         //Syntax to create an arrayList
 

@@ -1,4 +1,4 @@
-package class24Incapsulation;
+package class24IncapsulationArrayListADD;
 
 import java.util.ArrayList;
 import java.util.Arrays;

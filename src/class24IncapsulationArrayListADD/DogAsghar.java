@@ -1,4 +1,4 @@
-package class24Incapsulation;
+package class24IncapsulationArrayListADD;
 
 public class DogAsghar {
     private String name;
