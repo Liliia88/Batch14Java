@@ -41,5 +41,18 @@ Find the size of your arrayList and print all values from that
         System.out.println(names.size());
         System.out.println(names);
 
+        /*
+        ArrayList<String> names=new ArrayList<>(5);
+        names.add("Nesrin");
+        names.add("Vidaya");
+        names.add("Jam");
+        names.add("Jamo");
+        names.add("Jami");
+        System.out.println(names.isEmpty()); //given ArrayList is empty or not?
+        System.out.println(names.contains("Jam"));
+        System.out.println(names.contains("Dam"));
+        System.out.println(names.size());
+        System.out.println(names);
+         */
     }
 }

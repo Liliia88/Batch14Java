@@ -1,32 +1,31 @@
 package class25Iterator;
 
 import java.util.ArrayList;
+import java.util.Iterator;
 
-public class IteratorDemo3 {
+public class IteratorDemo1HasHasNextIfRemove {
     public static void main(String[] args) {
-        // delete all the products which start with letter B or ends with letter a
         ArrayList<String> beautyProducts=new ArrayList<>();
         beautyProducts.add("Blush");
         beautyProducts.add("Base");
         beautyProducts.add("Mascara");
         beautyProducts.add("lipstick");
         beautyProducts.add("Dove Soap");
-        /*
-         var number=10;
-        var name="Tymur";
-        var decimalNumber=21.5;
-         */
-        var iterator = beautyProducts.iterator();
+        beautyProducts.add("Conditioner");
+        beautyProducts.add("Primer");
+        beautyProducts.add("shampoo");
+        beautyProducts.add("lotion");
+        beautyProducts.add("concealer");
+        beautyProducts.add("eyeLinear");
+
+        Iterator<String> iterator=beautyProducts.iterator();
 
         while (iterator.hasNext()){
-            // var item=iterator.next(); java 11
-            String item=iterator.next();
-            if(item.startsWith("B")||item.endsWith("a")){
+            //  String item= iterator.next(); //better approach
+            if(iterator.next().endsWith("r")){
                 iterator.remove();
             }
         }
         System.out.println(beautyProducts);
-
-
     }
 }
