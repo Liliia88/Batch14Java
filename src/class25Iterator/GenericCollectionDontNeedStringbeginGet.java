@@ -2,7 +2,7 @@ package class25Iterator;
 
 import java.util.ArrayList;
 
-public class GenericCollectionDontNeedStringbegin {
+public class GenericCollectionDontNeedStringbeginGet {
     public static void main(String[] args) {
         // Non-generic way of using collections framework this is how your ancestors use to write code before java
         // 1.5 it causes a lot of problems at run time because java don't know at compile time what type of data

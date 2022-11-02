@@ -2,7 +2,7 @@ package class25Iterator;
 
 import java.util.ArrayList;
 
-public class RemoveAll {
+public class RemoveAllSeveralArrayLists {
     public static void main(String[] args) {
         ArrayList<String> makeUpItem=new ArrayList<>();
         makeUpItem.add("Blush");

@@ -4,6 +4,8 @@ import java.util.ArrayList;
 
 public class WrapperClassesAutoManualWrappe {
     public static void main(String[] args) {
+
+
         int num=10;
         // boxing or manual conversion from primitive to wrapper type
         //  Integer wrappedNum=Integer.valueOf(num); or (10)

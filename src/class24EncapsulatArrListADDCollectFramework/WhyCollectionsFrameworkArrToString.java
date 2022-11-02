@@ -1,9 +1,9 @@
-package class24IncapsulationArrayListADD;
+package class24EncapsulatArrListADDCollectFramework;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class WhyCollectionsFramework {
+public class WhyCollectionsFrameworkArrToString {
     public static void main(String[] args) {
       /*
         if we have to store a single value we should use variables
@@ -19,7 +19,7 @@ public class WhyCollectionsFramework {
 
 
         /*
-        fixed in size
+        fixed in size Array, not good
          */
         String[] breeds=new String[10];
         breeds[0]="BullDogs";

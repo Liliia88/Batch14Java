@@ -2,7 +2,7 @@ package class25Iterator;
 import java.util.ArrayList;
 import java.util.Iterator;
 
-public class HW2ReplaceIf {
+public class HW2IteratorReplaceIfSetNum {
     public static void main(String[] args) {
         /*
         Create an arrayList of drinks. If any drink has letter “a” or “e” replace it with water.

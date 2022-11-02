@@ -1,8 +1,8 @@
-package class24IncapsulationArrayListADD;
+package class24EncapsulatArrListADDCollectFramework;
 
 import java.util.ArrayList;
 
-public class ArrayListDemo1LOOP {
+public class ArrayListDemo1GETForLoop {
     public static void main(String[] args) {
         //Syntax to create an arrayList
 
@@ -17,6 +17,7 @@ public class ArrayListDemo1LOOP {
         System.out.println(colors);
         //get methods prints individual elements from arrayList
         System.out.println(colors.get(0));
+        System.out.println(colors.get(2));
         //size me
         System.out.println(colors.size());
 //getting all the elements from arrayList by normal loop
@@ -24,6 +25,7 @@ public class ArrayListDemo1LOOP {
             System.out.println(colors.get(i));
         }
 //getting all the elements from arrayList by enhanced loop
+
         System.out.println("---------------------------");
         for(String color:colors){
             System.out.println(color);

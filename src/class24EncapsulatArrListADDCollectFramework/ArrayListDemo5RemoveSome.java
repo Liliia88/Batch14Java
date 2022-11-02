@@ -1,8 +1,8 @@
-package class24IncapsulationArrayListADD;
+package class24EncapsulatArrListADDCollectFramework;
 
 import java.util.ArrayList;
 
-public class ArrayListDemo5 {
+public class ArrayListDemo5RemoveSome {
     public static void main(String[] args) {
         ArrayList<String> colors=new ArrayList<>();
         //use add method to insert elements in an arrayList

@@ -1,8 +1,8 @@
-package class24IncapsulationArrayListADD;
+package class24EncapsulatArrListADDCollectFramework;
 
 import java.util.ArrayList;
 
-public class ArrayListDemo4AddSet {
+public class ArrayListDemo4AddSetClear {
     public static void main(String[] args) {
         ArrayList<String> names=new ArrayList<>();
         //set - is for replacing some element

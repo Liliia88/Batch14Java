@@ -23,7 +23,6 @@ public class IteratorDemo2WhileNextHasNext {
         System.out.println(beautyProducts.size());
         while (iterator.hasNext()){
             System.out.println(iterator.next());
-            System.out.println(iterator.next());
         }
         System.out.println(beautyProducts);
     }

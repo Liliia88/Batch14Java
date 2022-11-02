@@ -2,7 +2,7 @@ package class25Iterator;
 
 import java.util.ArrayList;
 
-public class IteratorDemo3IfRemoveVAR {
+public class IteratorDemo3IfRemoveVARClear {
     public static void main(String[] args) {
         // delete all the products which start with letter B or ends with letter a
         ArrayList<String> beautyProducts=new ArrayList<>();

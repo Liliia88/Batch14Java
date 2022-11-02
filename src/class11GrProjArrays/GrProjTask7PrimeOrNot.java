@@ -1,7 +1,5 @@
 package class11GrProjArrays;
-
 public class GrProjTask7PrimeOrNot {
-
 	public static void main(String[] args) {
 	
 		int num = 9;

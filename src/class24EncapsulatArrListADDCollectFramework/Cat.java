@@ -1,4 +1,4 @@
-package class24IncapsulationArrayListADD;
+package class24EncapsulatArrListADDCollectFramework;
 
 public class Cat {
     private String name;
