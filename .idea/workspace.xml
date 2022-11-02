@@ -2,47 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd52ece5-dd11-40fa-b482-41c7af446b15" name="Changes" comment="test back">
-      <change afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R180GetConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R183EmptyAdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R184ITERATORPRINTSOME.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R185Iteratorprintallnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R186ClearArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R187RemoveSomePrintOneByOneSevWays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R188ScannerArraylistIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R189LinkedListRemoveIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R190Febonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R191PrintOneByOneAfterRemoveSome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R192AnotherWayLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R192MuhhamadWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R192PrimeOrNot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R193SumOfNumLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R194RemoveSomeIteratorLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReplsAllInteresting/R178IncapsulationSetGet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R178IncapsulationSetGet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReplsAllInteresting/R179IncapsulSERGET.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R179IncapsulSERGET.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReplsAllInteresting/R181SetGet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R181SetGet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReplsAllInteresting/R182GET.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R182GET.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/class11GrProjArrays/GrProjTask7PrimeOrNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class11GrProjArrays/GrProjTask7PrimeOrNot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class23Abstract/HW2Interface_WebDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class23Abstract/HW2Interface_WebDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class24IncapsulationArrayListADD/ArrayListDemo1LOOP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class24EncapsulatArrListADDCollectFramework/ArrayListDemo1GETForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class24IncapsulationArrayListADD/ArrayListDemo2PrimitiveDatatypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class24EncapsulatArrListADDCollectFramework/ArrayListDemo2PrimitiveDatatypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class24IncapsulationArrayListADD/ArrayListDemo3BooleanCharsFloats.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class24EncapsulatArrListADDCollectFramework/ArrayListDemo3BooleanCharsFloats.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class24IncapsulationArrayListADD/ArrayListDemo4AddSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class24EncapsulatArrListADDCollectFramework/ArrayListDemo4AddSetClear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class24IncapsulationArrayListADD/ArrayListDemo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class24EncapsulatArrListADDCollectFramework/ArrayListDemo5RemoveSome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class24IncapsulationArrayListADD/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class24EncapsulatArrListADDCollectFramework/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class24IncapsulationArrayListADD/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class24EncapsulatArrListADDCollectFramework/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class24IncapsulationArrayListADD/DogAsghar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class24EncapsulatArrListADDCollectFramework/DogAsghar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class24IncapsulationArrayListADD/HWCOMMENTS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class24EncapsulatArrListADDCollectFramework/HWEmptyContains.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class24IncapsulationArrayListADD/Horse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class24EncapsulatArrListADDCollectFramework/Horse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class24IncapsulationArrayListADD/WhyCollectionsFramework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class24EncapsulatArrListADDCollectFramework/WhyCollectionsFrameworkArrToString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class25Iterator/ArrayListMethodsADDALL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class25Iterator/ArrayListAddALLRemoveAllSeveralLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class25Iterator/GenericCollectionDontNeedStringbegin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class25Iterator/GenericCollectionDontNeedStringbeginGet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class25Iterator/HW2ReplaceIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class25Iterator/HW2IteratorReplaceIfSetNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class25Iterator/HW3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class25Iterator/HW3IteratorRemoveDIFFERWAYS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class25Iterator/IteratorDemo2WhileNextHasNext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class25Iterator/IteratorDemo2WhileNextHasNext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class25Iterator/IteratorDemo3IfRemoveVAR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class25Iterator/IteratorDemo3IfRemoveVARClear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class25Iterator/RemoveAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class25Iterator/RemoveAllSeveralArrayLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class25Iterator/WrapperClassesAutoManualWrappe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class25Iterator/WrapperClassesAutoManualWrappe.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
