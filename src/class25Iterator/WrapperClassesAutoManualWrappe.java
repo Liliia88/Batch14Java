@@ -12,7 +12,9 @@ public class WrapperClassesAutoManualWrappe {
 
         // AutoBoxing or automatic conversion of a primitive to a wrapper type
         Integer wrappedNum=10;
+
         System.out.println(wrappedNum);
+
         ArrayList<Integer> numbers=new ArrayList<>();
         numbers.add(10);
 
