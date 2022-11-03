@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd52ece5-dd11-40fa-b482-41c7af446b15" name="Changes" comment="test back">
+      <change afterPath="$PROJECT_DIR$/src/class25Iterator/WhyWeNeedIterator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/class11GrProjArrays/GrProjTask7PrimeOrNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class11GrProjArrays/GrProjTask7PrimeOrNot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class25Iterator/WrapperClassesAutoManualWrappe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class25Iterator/WrapperClassesAutoManualWrappe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class25Iterator/IteratorDemo2WhileNextHasNext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class25Iterator/IteratorDemo2WhileNextHasNext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class25Iterator/IteratorDemo3IfRemoveVARClear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class25Iterator/IteratorDemo3IfRemoveVARClear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class25Iterator/IteratorDemoEndsWith.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class25Iterator/IteratorDemoWhileHasHasNext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class25Iterator/IteratorDemoWhileHasHasNext.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>

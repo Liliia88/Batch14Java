@@ -15,6 +15,7 @@ public class IteratorDemo3IfRemoveVARClear {
          var number=10;
         var name="Tymur";
         var decimalNumber=21.5;
+        var - don't worry about data type any more
          */
         var iterator = beautyProducts.iterator();
 
