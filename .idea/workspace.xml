@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd52ece5-dd11-40fa-b482-41c7af446b15" name="Changes" comment="test back">
-      <change afterPath="$PROJECT_DIR$/src/class25Iterator/WhyWeNeedIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class23Abstract/AbstractInterfaceDifference" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class23Abstract/ReviewDrinkFinal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class23Abstract/ReviewInterfaceDefaultAbstractCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class26/Collection frameworkIterator" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/class11GrProjArrays/GrProjTask7PrimeOrNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class11GrProjArrays/GrProjTask7PrimeOrNot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class25Iterator/IteratorDemo2WhileNextHasNext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class25Iterator/IteratorDemo2WhileNextHasNext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class25Iterator/IteratorDemo3IfRemoveVARClear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class25Iterator/IteratorDemo3IfRemoveVARClear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class25Iterator/IteratorDemoEndsWith.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class25Iterator/IteratorDemoWhileHasHasNext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class25Iterator/IteratorDemoWhileHasHasNext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class23Abstract/Abstract" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class25Iterator/CollectionsFramework" beforeDir="false" afterPath="$PROJECT_DIR$/src/class25Iterator/CollectionsFramework" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,18 +39,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/liliya.khusainova/Documents/QAStudy/SDETBatch14Java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/liliya.khusainova/Documents/QAStudy/SDETBatch14Java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/class07DoWhileForLoop" />

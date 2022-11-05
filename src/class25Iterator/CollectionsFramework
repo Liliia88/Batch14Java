@@ -16,15 +16,18 @@
      wrapper classes are object types for all primitive types.
  Boxing:
      converting the primitive data type to its corresponding wrapper type by explicitly calling methods.
-     int num=10;
-             // boxing or manual conversion from primitive to wrapper type
-           //  Integer wrappedNum=Integer.valueOf(num);
+      boxing or manual conversion from primitive to wrapper type
+           //int num=10;
+           //Integer wnum=new Integer(num);  OR Integer wrappedNum=Integer.valueOf(num);
  Auto Boxing:
      converting the primitive data type to its corresponding wrapper type by simply assigning the values.
-      Integer wrappedNum=10;
+      //int pnum=10;
+      // Integer wrappedNum=10; OR  Integer wrappedNum=pnum;
+
  Unboxing:
      Converting a wrapper type to its corresponding primtive type by explicitly calling a method.
        //unboxing converting a wrapper type to a corresponding primitive type
+            Integer wrappedNum=new Integer(10)
            //  int num2=wrappedNum.intValue();
  Auto Unboxing:
      converting a wrapper to corresponding primitive automatically by just assigning the value.

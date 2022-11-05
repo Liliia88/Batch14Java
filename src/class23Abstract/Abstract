@@ -1,7 +1,0 @@
-if you don't want to implement any method, you should just write abstract method (abstract void..)
-
-Abstract class definitions should not be made as final because abstract classes always participate
-in inheritance classes.
-
-If we want to implement SOME methods: we should use abstract
-but if use ALL methods : use interface.

@@ -1,0 +1,22 @@
+if you don't want to implement any method, you should just write abstract method (abstract void..)
+
+Abstract class definitions should not be made as final because abstract classes always participate
+in inheritance classes.
+
+If we want to implement SOME methods: we should use abstract
+but if use ALL methods : use interface.
+
+
+Abstract class:
+-any variable (static, instance)
+-have constructor
+-can have implemented and inimplemented methods
+-methods can have any accessibility (not only public)
+
+Interface 100% abstraction
+-only public static final variables
+-no constructor
+-public abstract methods ONLY UNimplemented
+
+since java 8- partial abstraction
+ -we can have implemented methods (only static and only default)
