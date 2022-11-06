@@ -22,7 +22,8 @@ Create an arrayList of even numbers from 1 to 500. Remove any number that is div
          numbersEven.add(i);
          }
        ------------using iterator---------------
-         Iterator<String> iterator =numbersEven.iterator();
+         Iterator<Integer> iterator =numbersEven.iterator();
+
           while (iterator.hasNext()){
             if(iterator.next()%5==0){
               iterator.remove();

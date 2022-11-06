@@ -3,7 +3,7 @@ package class25Iterator;
 import java.util.ArrayList;
 import java.util.Iterator;
 
-public class IteratorDemoWhileHasHasNext {
+public class Iterator2WhileNextHasNext {
     public static void main(String[] args) {
         ArrayList<String> beautyProducts=new ArrayList<>();
         beautyProducts.add("Blush");
@@ -16,19 +16,15 @@ public class IteratorDemoWhileHasHasNext {
         beautyProducts.add("shampoo");
         beautyProducts.add("lotion");
         beautyProducts.add("concealer");
-        beautyProducts.add("eyeLinear");
+        //beautyProducts.add("eyeLinear");
+
         //get the iterator from the list
         Iterator<String> iterator =beautyProducts.iterator();
-       /* System.out.println(iterator.hasNext()); // we have one item
-        System.out.println(iterator.next()); //it gives us the item and also removes the items from iterator
-        System.out.println(iterator.hasNext());
-        iterator.next();
-        iterator.next();
-        System.out.println(iterator.next());*/
-
-
+        System.out.println(beautyProducts.size());
         while (iterator.hasNext()){
             System.out.println(iterator.next());
+            System.out.println(iterator.next()); // will be error cause of cuantity of elements here in beautyProducts
         }
+        System.out.println(beautyProducts);
     }
 }

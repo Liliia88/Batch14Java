@@ -3,7 +3,7 @@ package class25Iterator;
 import java.util.ArrayList;
 import java.util.Iterator;
 
-public class IteratorDemo2WhileNextHasNext {
+public class Iterator1HasHasNextIfRemove {
     public static void main(String[] args) {
         ArrayList<String> beautyProducts=new ArrayList<>();
         beautyProducts.add("Blush");
@@ -16,14 +16,15 @@ public class IteratorDemo2WhileNextHasNext {
         beautyProducts.add("shampoo");
         beautyProducts.add("lotion");
         beautyProducts.add("concealer");
-        //beautyProducts.add("eyeLinear");
+        beautyProducts.add("eyeLinear");
 
-        //get the iterator from the list
-        Iterator<String> iterator =beautyProducts.iterator();
-        System.out.println(beautyProducts.size());
+        Iterator<String> iterator=beautyProducts.iterator();
+
         while (iterator.hasNext()){
-            System.out.println(iterator.next());
-            System.out.println(iterator.next()); // will be error
+            //  String item= iterator.next(); //better approach
+            if(iterator.next().endsWith("r")){
+                iterator.remove();
+            }
         }
         System.out.println(beautyProducts);
     }

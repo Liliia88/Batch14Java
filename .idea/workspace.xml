@@ -2,14 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd52ece5-dd11-40fa-b482-41c7af446b15" name="Changes" comment="test back">
-      <change afterPath="$PROJECT_DIR$/src/class23Abstract/AbstractInterfaceDifference" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class23Abstract/ReviewDrinkFinal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class23Abstract/ReviewInterfaceDefaultAbstractCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class26/Collection frameworkIterator" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class25Iterator/HW2AsgharSetFORLoopBetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class25Iterator/HW3AnotherWayAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class26/ArrayLinkDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class26/HW1InsuranceArrayListIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class26/HW2CardLinkListForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class26/HW3RemoveDublicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class26/HW4TreeSetForLWhileIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class26/HW5LambdaRemove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class26/HW6StudentsForLWhileIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class26/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class26/TypesOfSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class26/WhenToUseSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class26/WhySet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class26/Wrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class27/ArrayListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class27/ArrayListLinkedListSet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class27/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class27/Map2PutAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class27/Map3Values.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class27/Map4RemoveSomeKeySet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class27/Map5Collection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class27/MapDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class27/MapGetByKea.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDETBatch14Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SDETBatch14Java.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/class11GrProjArrays/GrProjTask7PrimeOrNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class11GrProjArrays/GrProjTask7PrimeOrNot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class23Abstract/Abstract" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class25Iterator/CollectionsFramework" beforeDir="false" afterPath="$PROJECT_DIR$/src/class25Iterator/CollectionsFramework" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class25Iterator/HW2IteratorReplaceIfSetNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class25Iterator/HW2IteratorReplaceIfSetNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class25Iterator/HW3IteratorRemoveDIFFERWAYS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class25Iterator/HW3IteratorRemoveDIFFERWAYS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class25Iterator/IteratorDemo1HasHasNextIfRemove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class25Iterator/Iterator1HasHasNextIfRemove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class25Iterator/IteratorDemo2WhileNextHasNext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class25Iterator/Iterator2WhileNextHasNext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class25Iterator/IteratorDemo3IfRemoveVARClear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class25Iterator/Iterator3IfRemoveVARClear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class25Iterator/IteratorDemo4Lambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class25Iterator/Iterator4Lambda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class25Iterator/IteratorDemoWhileHasHasNext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class25Iterator/IteratorWhileHasHasNext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class26/Collection frameworkIterator" beforeDir="false" afterPath="$PROJECT_DIR$/src/class26/Collection frameworkIterator" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,18 +65,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/liliya.khusainova/Documents/QAStudy/SDETBatch14Java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/liliya.khusainova/Documents/QAStudy/SDETBatch14Java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/class07DoWhileForLoop" />
@@ -60,13 +86,13 @@
       <recent name="class14ReviewArraysString" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WhyCollectionsFrameworkArrToString">
-    <configuration name="ArrayListDemo1GETForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class24EncapsulatArrListADDCollectFramework.ArrayListDemo1GETForLoop" />
+  <component name="RunManager" selected="Application.MapDemo1">
+    <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class27.ArrayListDemo" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class24EncapsulatArrListADDCollectFramework.*" />
+          <option name="PATTERN" value="class27.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="R192AnotherWayLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReplsAllInteresting.R192AnotherWayLinkedList" />
+    <configuration name="HW6StudentsForLWhileIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class26.HW6StudentsForLWhileIterator" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ReplsAllInteresting.*" />
+          <option name="PATTERN" value="class26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="R192PrimeOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReplsAllInteresting.R192PrimeOrNot" />
+    <configuration name="MapDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class27.MapDemo1" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ReplsAllInteresting.*" />
+          <option name="PATTERN" value="class27.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhyCollectionsFrameworkArrToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class24EncapsulatArrListADDCollectFramework.WhyCollectionsFrameworkArrToString" />
+    <configuration name="testTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class26.testTester" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class24EncapsulatArrListADDCollectFramework.*" />
+          <option name="PATTERN" value="class26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tester36" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class24EncapsulatArrListADDCollectFramework.tester36" />
+    <configuration name="testerTest7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class26.testerTest7" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class24EncapsulatArrListADDCollectFramework.*" />
+          <option name="PATTERN" value="class26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WhyCollectionsFrameworkArrToString" />
-        <item itemvalue="Application.ArrayListDemo1GETForLoop" />
-        <item itemvalue="Application.tester36" />
-        <item itemvalue="Application.R192PrimeOrNot" />
-        <item itemvalue="Application.R192AnotherWayLinkedList" />
+        <item itemvalue="Application.MapDemo1" />
+        <item itemvalue="Application.HW6StudentsForLWhileIterator" />
+        <item itemvalue="Application.testerTest7" />
+        <item itemvalue="Application.testTester" />
+        <item itemvalue="Application.ArrayListDemo" />
       </list>
     </recent_temporary>
   </component>

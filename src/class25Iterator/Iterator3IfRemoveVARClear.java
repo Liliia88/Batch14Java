@@ -2,7 +2,7 @@ package class25Iterator;
 
 import java.util.ArrayList;
 
-public class IteratorDemo4Lambda {
+public class Iterator3IfRemoveVARClear {
     public static void main(String[] args) {
         // delete all the products which start with letter B or ends with letter a
         ArrayList<String> beautyProducts=new ArrayList<>();
@@ -15,13 +15,19 @@ public class IteratorDemo4Lambda {
          var number=10;
         var name="Tymur";
         var decimalNumber=21.5;
+        var - don't worry about data type any more
          */
+        var iterator = beautyProducts.iterator();
 
-        // var item=iterator.next(); java 11
-        beautyProducts.removeIf(x -> x.startsWith("B"));
+        while (iterator.hasNext()){
+            // var item=iterator.next(); java 11
+            String item=iterator.next();
+            if(item.startsWith("B")||item.endsWith("a")){
+                iterator.remove();
+            }
+        }
         System.out.println(beautyProducts);
 
 
     }
 }
-
