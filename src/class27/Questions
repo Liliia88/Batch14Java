@@ -1,0 +1,12 @@
+Set in hashmap
+
+
+i don't understand the meaning of line 20;
+Set<Integer> set =new HashSet<Integer>();
+
+Can the Set(Not Collection ) return all values?
+
+
+why we need key.sET IF WE CAN USE GET.KEY
+
+-ITERATE through hashmap KEYset using iterator!!!

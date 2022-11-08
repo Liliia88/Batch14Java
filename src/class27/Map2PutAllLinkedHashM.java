@@ -1,6 +1,6 @@
 package class27;
 import java.util.LinkedHashMap;
-public class Map2PutAll {
+public class Map2PutAllLinkedHashM {
     public static void main(String[] args) {
 
         LinkedHashMap<String,Double> beautyProducts=new LinkedHashMap<>();
