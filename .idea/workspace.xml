@@ -2,31 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd52ece5-dd11-40fa-b482-41c7af446b15" name="Changes" comment="test back">
-      <change afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R195HashSetForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R196Clear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R197Size.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R199TwoWaysLoopIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R200LinkedHashMapIteratorValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R201SizeHashMapClear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R202LinkedHashMapForLoopKeyValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R203ValueKeyBothIteratorHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R204ValueIteratorLinkedHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R206BothKeyValueForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class27/MapEntrySetMethodBothKeyValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class27/Questions" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class27/ReviewArrayListLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class27/ReviewCollect.Framework" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class27/ReviewMapD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class27/ReviewSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class27/ReviewSetTreeset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class27/ReviewStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class27/ReviewStudentMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R188AnotherWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R189LinkedListRemoveIteratorDifWays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R190JanelWay.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReplsAllInteresting/R188ScannerArraylistIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R188ScannerArraylistIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReplsAllInteresting/R189LinkedListRemoveIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReplsAllInteresting/R190Febonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R190Febonacci.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/class11GrProjArrays/GrProjTask7PrimeOrNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class11GrProjArrays/GrProjTask7PrimeOrNot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class27/Map2PutAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class27/Map2PutAllLinkedHashM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class27/Map3Values.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class27/Map3ValuesSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class27/Map5Collection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class27/Map5CollectIteratRemoveLambda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class27/MapDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class27/Map1GetContainsKeyValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class27/MapEntrySetMethodBothKeyValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class27/MapEntrySetMethodBothKeyValue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,13 +61,13 @@
       <recent name="class14ReviewArraysString" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Map3ValuesSet">
-    <configuration name="Map1GetContainsKeyValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class27.Map1GetContainsKeyValue" />
+  <component name="RunManager" selected="Application.R188AnotherWay">
+    <configuration name="R188AnotherWay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReplsAllInteresting.R188AnotherWay" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class27.*" />
+          <option name="PATTERN" value="ReplsAllInteresting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Map3ValuesSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class27.Map3ValuesSet" />
+    <configuration name="R188ScannerArraylistIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReplsAllInteresting.R188ScannerArraylistIterator" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class27.*" />
+          <option name="PATTERN" value="ReplsAllInteresting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Map4RemoveSomeKeySet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class27.Map4RemoveSomeKeySet" />
+    <configuration name="R189LinkedListRemoveIteratorDifWays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReplsAllInteresting.R189LinkedListRemoveIteratorDifWays" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class27.*" />
+          <option name="PATTERN" value="ReplsAllInteresting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapGetByKea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class27.MapGetByKea" />
+    <configuration name="R190Febonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReplsAllInteresting.R190Febonacci" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class27.*" />
+          <option name="PATTERN" value="ReplsAllInteresting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,8 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="R202LinkedHashMapForLoopKeyValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReplsAllInteresting.R202LinkedHashMapForLoopKeyValue" />
+    <configuration name="R190JanelWay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReplsAllInteresting.R190JanelWay" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
@@ -145,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Map3ValuesSet" />
-        <item itemvalue="Application.Map4RemoveSomeKeySet" />
-        <item itemvalue="Application.R202LinkedHashMapForLoopKeyValue" />
-        <item itemvalue="Application.Map1GetContainsKeyValue" />
-        <item itemvalue="Application.MapGetByKea" />
+        <item itemvalue="Application.R188AnotherWay" />
+        <item itemvalue="Application.R189LinkedListRemoveIteratorDifWays" />
+        <item itemvalue="Application.R190Febonacci" />
+        <item itemvalue="Application.R190JanelWay" />
+        <item itemvalue="Application.R188ScannerArraylistIterator" />
       </list>
     </recent_temporary>
   </component>

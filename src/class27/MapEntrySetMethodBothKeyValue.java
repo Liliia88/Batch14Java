@@ -18,7 +18,7 @@ public class MapEntrySetMethodBothKeyValue {
 
         Set<Entry<String, String>> entry = map.entrySet();
         for(Entry<String, String> e:entry){
-            System.out.println(e.getKey()+e.getValue());
+            System.out.println(e.getKey()+" "+e.getValue());
         }
     }
 }
