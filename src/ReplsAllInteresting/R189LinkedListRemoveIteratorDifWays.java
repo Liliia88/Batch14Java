@@ -9,10 +9,9 @@ public class R189LinkedListRemoveIteratorDifWays {
 
             }
           //  System.out.println(numbers);
-/*
+
            numbers.removeIf(x -> x%3!=0);           //- LAMBDA
            System.out.println(numbers+" ");
-           */
 
             //----------------------------------
 /*
@@ -23,13 +22,13 @@ public class R189LinkedListRemoveIteratorDifWays {
             }}System.out.println(numbers);
 */
            // ------------------------------
-
+/*
             for(int i=0;i<numbers.size();i++){
               if(i%3!=0) {
                   numbers.remove(i);
               }}
                   System.out.print(numbers);
-
+*/
          /*    for(Integer n:numbers){
                  if(n%3!=0){
                      System.out.println(numbers.remove());

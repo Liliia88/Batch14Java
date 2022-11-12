@@ -13,6 +13,7 @@ public class R203ValueKeyBothIteratorHashMap {
         words.put("mango", 40);
 
           //Set<Entry<String,Integer>> w=words.entrySet();
+        //var entries=w.iterator();
          Iterator<Entry<String,Integer>> entries = words.entrySet().iterator();
 
         while (entries.hasNext()) {

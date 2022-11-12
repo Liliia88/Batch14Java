@@ -2,15 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd52ece5-dd11-40fa-b482-41c7af446b15" name="Changes" comment="test back">
-      <change afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R188AnotherWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R189LinkedListRemoveIteratorDifWays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R190JanelWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class28/HashMap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class28/HashMap1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class28/HashMap2RemoveLambdaKeysET.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class28/HashMap4ForLoopValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class28/HashMap5VarEntrysET.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class28/HashMap6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class28/Hashmap3PrintOutKeaOrValueForLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReplsAllInteresting/R188ScannerArraylistIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R188ScannerArraylistIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReplsAllInteresting/R189LinkedListRemoveIterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReplsAllInteresting/R190Febonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R190Febonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReplsAllInteresting/R189LinkedListRemoveIteratorDifWays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R189LinkedListRemoveIteratorDifWays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReplsAllInteresting/R200LinkedHashMapIteratorValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R200LinkedHashMapIteratorValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReplsAllInteresting/R203ValueKeyBothIteratorHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R203ValueKeyBothIteratorHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReplsAllInteresting/R206BothKeyValueForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R206BothKeyValueForLoopLambda.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/class11GrProjArrays/GrProjTask7PrimeOrNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class11GrProjArrays/GrProjTask7PrimeOrNot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class27/MapEntrySetMethodBothKeyValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class27/MapEntrySetMethodBothKeyValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class27/Map4RemoveSomeKeySet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class27/Map4RemoveSomeKeySetLambdaIteratorContains.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class27/Map5CollectIteratRemoveLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class27/Map5CollectionIteratRemoveLambda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class27/ReviewCollect.Framework" beforeDir="false" afterPath="$PROJECT_DIR$/src/class27/ReviewCollect.Framework" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,18 +47,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/liliya.khusainova/Documents/QAStudy/SDETBatch14Java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/liliya.khusainova/Documents/QAStudy/SDETBatch14Java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/class07DoWhileForLoop" />
@@ -61,13 +68,13 @@
       <recent name="class14ReviewArraysString" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.R188AnotherWay">
-    <configuration name="R188AnotherWay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReplsAllInteresting.R188AnotherWay" />
+  <component name="RunManager" selected="Application.R200LinkedHashMapIteratorValue">
+    <configuration name="Map1GetContainsKeyValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class27.Map1GetContainsKeyValue" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ReplsAllInteresting.*" />
+          <option name="PATTERN" value="class27.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,8 +82,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="R188ScannerArraylistIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReplsAllInteresting.R188ScannerArraylistIterator" />
+    <configuration name="Map5CollectionIteratRemoveLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class27.Map5CollectionIteratRemoveLambda" />
+      <module name="SDETBatch14Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class27.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="R188AnotherWay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReplsAllInteresting.R188AnotherWay" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
@@ -101,21 +121,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="R190Febonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReplsAllInteresting.R190Febonacci" />
-      <module name="SDETBatch14Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ReplsAllInteresting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="R190JanelWay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReplsAllInteresting.R190JanelWay" />
+    <configuration name="R200LinkedHashMapIteratorValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReplsAllInteresting.R200LinkedHashMapIteratorValue" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
@@ -129,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.R188AnotherWay" />
+        <item itemvalue="Application.R200LinkedHashMapIteratorValue" />
+        <item itemvalue="Application.Map5CollectionIteratRemoveLambda" />
+        <item itemvalue="Application.Map1GetContainsKeyValue" />
         <item itemvalue="Application.R189LinkedListRemoveIteratorDifWays" />
-        <item itemvalue="Application.R190Febonacci" />
-        <item itemvalue="Application.R190JanelWay" />
-        <item itemvalue="Application.R188ScannerArraylistIterator" />
+        <item itemvalue="Application.R188AnotherWay" />
       </list>
     </recent_temporary>
   </component>

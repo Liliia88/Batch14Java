@@ -43,3 +43,5 @@ Maps:
 // type eq and click equals - will work for contains. condition
 -entrySet for both key and value
 
+-----------
+if we need iterator, we use set, collection

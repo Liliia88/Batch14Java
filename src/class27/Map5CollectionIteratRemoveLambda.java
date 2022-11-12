@@ -4,7 +4,7 @@ import java.util.Collection;
 import java.util.HashMap;
 import java.util.Iterator;
 
-public class Map5CollectIteratRemoveLambda {
+public class Map5CollectionIteratRemoveLambda {
     public static void main(String[] args) {
         HashMap<String,Double> fruit=new HashMap<>();
         fruit.put("Apple",1.99); // to Store the values in a map
@@ -13,7 +13,7 @@ public class Map5CollectIteratRemoveLambda {
         fruit.put("Banana",10.1);
 
         Collection<Double> values=fruit.values(); // returns all the values from a map
-
+        //Iterator<Double> iterator= fruit.values().iterator();
         Iterator<Double> iterator= values.iterator(); // Getting an iterator on that  set
         while (iterator.hasNext()) {
             Double item = iterator.next(); //double or Double both are work

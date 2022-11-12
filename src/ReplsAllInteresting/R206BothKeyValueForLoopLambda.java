@@ -1,8 +1,8 @@
 package ReplsAllInteresting;
-
+import java.util.Map.Entry;
 import java.util.HashMap;
 
-public class R206BothKeyValueForLoop {
+public class R206BothKeyValueForLoopLambda {
     public static void main(String[] args) {
         HashMap<String,String> words=new HashMap<>();
         words.put("ONE","AAA");
@@ -13,7 +13,8 @@ public class R206BothKeyValueForLoop {
 
         System.out.println("HashMap Before Remove :");
 
-        for ( HashMap.Entry<String, String> entry :  words.entrySet()) {
+        for ( Entry<String, String> entry :  words.entrySet()) {
+        //if we use map.entry on top so dont need write HashMap.Entry, just Entry
             String key = entry.getKey();
             String value = entry.getValue();
             System.out.println(key+" : "+value);
@@ -23,7 +24,7 @@ public class R206BothKeyValueForLoop {
         words.keySet().removeIf(x->x.equals("ONE"));
         words.keySet().removeIf(x->x.equals("FOUR"));
 
-        for ( HashMap.Entry<String, String> entry :  words.entrySet()) {
+        for ( Entry<String, String> entry :  words.entrySet()) {
             String key = entry.getKey();
             String value = entry.getValue();
             System.out.println(key+" : "+value);
