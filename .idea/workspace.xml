@@ -2,22 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd52ece5-dd11-40fa-b482-41c7af446b15" name="Changes" comment="test back">
-      <change afterPath="$PROJECT_DIR$/src/class28/HashMap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class28/HashMap1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class28/HashMap2RemoveLambdaKeysET.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class28/HashMap4ForLoopValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class28/HashMap5VarEntrysET.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class28/HashMap6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class28/Hashmap3PrintOutKeaOrValueForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/SalarySheet.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/SalarySyntax.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utils/ExcelReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class28MapFile/ExcelDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class28MapFile/File1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class28MapFile/File2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class28MapFile/HW1HashMapForLoopIteratorVar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class28MapFile/HW2BothKeyValueVarForIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class28MapFile/HW3EntrySetBothKeyValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class28MapFile/HW4PersonHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class28MapFile/HW5HighestSalary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class28MapFile/HW6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class28MapFile/HW7Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class29FileHandling/ExcelReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class29FileHandling/FileHandling" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class29FileHandling/ReadingExcelFile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReplsAllInteresting/R189LinkedListRemoveIteratorDifWays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R189LinkedListRemoveIteratorDifWays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReplsAllInteresting/R200LinkedHashMapIteratorValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R200LinkedHashMapIteratorValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReplsAllInteresting/R203ValueKeyBothIteratorHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R203ValueKeyBothIteratorHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReplsAllInteresting/R206BothKeyValueForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReplsAllInteresting/R206BothKeyValueForLoopLambda.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/class11GrProjArrays/GrProjTask7PrimeOrNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class11GrProjArrays/GrProjTask7PrimeOrNot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class27/Map4RemoveSomeKeySet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class27/Map4RemoveSomeKeySetLambdaIteratorContains.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class27/Map5CollectIteratRemoveLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class27/Map5CollectionIteratRemoveLambda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class27/ReviewCollect.Framework" beforeDir="false" afterPath="$PROJECT_DIR$/src/class27/ReviewCollect.Framework" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class26/ArrayLinkDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class26ArrayLinkedList/ArrayLinkDifference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class26/Collection frameworkIterator" beforeDir="false" afterPath="$PROJECT_DIR$/src/class26ArrayLinkedList/Collection frameworkIterator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class26/HW1InsuranceArrayListIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class26ArrayLinkedList/HW1InsuranceArrayListIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class26/HW2CardLinkListForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class26ArrayLinkedList/HW2CardLinkListForLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class26/HW3RemoveDublicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class26ArrayLinkedList/HW3RemoveDublicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class26/HW4TreeSetForLWhileIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class26ArrayLinkedList/HW4TreeSetForLWhileIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class26/HW5LambdaRemove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class26ArrayLinkedList/HW5LambdaRemove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class26/HW6StudentsForLWhileIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class26ArrayLinkedList/HW6StudentsForLWhileIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class26/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class26ArrayLinkedList/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class26/TypesOfSets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class26ArrayLinkedList/TypesOfSets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class26/WhenToUseSets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class26ArrayLinkedList/WhenToUseSets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class26/WhySet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class26ArrayLinkedList/WhySet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class26/Wrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class26ArrayLinkedList/Wrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class27/ArrayListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class27Map/ArrayListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class27/ArrayListLinkedListSet" beforeDir="false" afterPath="$PROJECT_DIR$/src/class27Map/ArrayListLinkedListSet" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class27/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class27Map/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class27/Map1GetContainsKeyValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class27Map/Map1GetContainsKeyValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class27/Map2PutAllLinkedHashM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class27Map/Map2PutAllLinkedHashM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class27/Map3ValuesSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class27Map/Map3ValuesSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class27/Map4RemoveSomeKeySetLambdaIteratorContains.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class27Map/Map4RemoveSomeKeySetLambdaIteratorContains.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class27/Map5CollectionIteratRemoveLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class27Map/Map5CollectionIteratRemoveLambda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class27/MapEntrySetMethodBothKeyValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class27Map/MapBothSetKeyValueForLoopIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class27/MapGetByKea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class27Map/MapGetByKea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class27/Questions" beforeDir="false" afterPath="$PROJECT_DIR$/src/class27Map/Questions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class27/ReviewArrayListLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class27Map/ReviewArrayListLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class27/ReviewCollect.Framework" beforeDir="false" afterPath="$PROJECT_DIR$/src/class27Map/ReviewCollect.Framework" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class27/ReviewMapD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class27Map/ReviewMapD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class27/ReviewSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class27Map/ReviewSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class27/ReviewSetTreeset.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class27Map/ReviewSetTreeset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class27/ReviewStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class27Map/ReviewStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class27/ReviewStudentMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class27Map/ReviewStudentMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class28/HashMap" beforeDir="false" afterPath="$PROJECT_DIR$/src/class28MapFile/HashMap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class28/HashMap1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class28MapFile/HashMap1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class28/HashMap2RemoveLambdaKeysET.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class28MapFile/HashMap2RemoveLambdaKeysET.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class28/HashMap4ForLoopValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class28MapFile/HashMap4ForLoopValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class28/HashMap5VarEntrysET.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class28MapFile/HashMap5VarEntrysET.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class28/HashMap6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class28MapFile/HashMap6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class28/Hashmap3PrintOutKeaOrValueForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class28MapFile/Hashmap3PrintOutKeaOrValueForLoop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,17 +105,20 @@
       <recent name="$PROJECT_DIR$/src/class07DoWhileForLoop" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Data" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="class14ReviewArraysString" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.R200LinkedHashMapIteratorValue">
-    <configuration name="Map1GetContainsKeyValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class27.Map1GetContainsKeyValue" />
+  <component name="RunManager" selected="Application.ReadingExcelFile">
+    <configuration name="HW5HighestSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class28MapFile.HW5HighestSalary" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class27.*" />
+          <option name="PATTERN" value="class28MapFile.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Map5CollectionIteratRemoveLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class27.Map5CollectionIteratRemoveLambda" />
+    <configuration name="HW6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class28MapFile.HW6" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class27.*" />
+          <option name="PATTERN" value="class28MapFile.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="R188AnotherWay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReplsAllInteresting.R188AnotherWay" />
+    <configuration name="HW7Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class28MapFile.HW7Sum" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ReplsAllInteresting.*" />
+          <option name="PATTERN" value="class28MapFile.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="R189LinkedListRemoveIteratorDifWays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReplsAllInteresting.R189LinkedListRemoveIteratorDifWays" />
+    <configuration name="ReadingExcelFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class29FileHandling.ReadingExcelFile" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ReplsAllInteresting.*" />
+          <option name="PATTERN" value="class29FileHandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="R200LinkedHashMapIteratorValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReplsAllInteresting.R200LinkedHashMapIteratorValue" />
+    <configuration name="Testclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class28MapFile.Testclass" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ReplsAllInteresting.*" />
+          <option name="PATTERN" value="class28MapFile.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.R200LinkedHashMapIteratorValue" />
-        <item itemvalue="Application.Map5CollectionIteratRemoveLambda" />
-        <item itemvalue="Application.Map1GetContainsKeyValue" />
-        <item itemvalue="Application.R189LinkedListRemoveIteratorDifWays" />
-        <item itemvalue="Application.R188AnotherWay" />
+        <item itemvalue="Application.ReadingExcelFile" />
+        <item itemvalue="Application.HW6" />
+        <item itemvalue="Application.HW7Sum" />
+        <item itemvalue="Application.HW5HighestSalary" />
+        <item itemvalue="Application.Testclass" />
       </list>
     </recent_temporary>
   </component>
