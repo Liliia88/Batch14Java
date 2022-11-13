@@ -8,6 +8,7 @@ public class StringUtils {
 
             if(str.charAt(i)==charToSearch) {
                 System.out.println(i);
+                //
             }
         }
     }
