@@ -1,6 +1,6 @@
 package Utils;
 
-public class StringUtils {
+public class DontPayAttentionStringUtils {
 
     public void printAllIndexes(String str,
                                 char charToSearch) {

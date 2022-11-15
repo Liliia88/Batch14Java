@@ -4,7 +4,7 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.Properties;
 //rightclick on your file and click copypathreference then click from Content root
-public class File1 {
+public class File1GetConfigProperties {
     public static void main(String[] args) throws IOException {
         String path="Data/config.properties"; // location of the file
        var fileInputStream=new FileInputStream(path); // it helps us navigate to the file

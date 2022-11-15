@@ -45,11 +45,8 @@ public class ReadingExcelFile {
             excelData.add(rowMap);
             // System.out.println(rowMap);
 
-
         }
         System.out.println(excelData);
-
-
 
     }
 }

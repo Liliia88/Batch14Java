@@ -6,7 +6,7 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import java.io.FileInputStream;
 import java.io.IOException;
 
-public class File2 {
+public class File2SalarySyntaxGetInfoExcel {
     public static void main(String[] args) throws IOException {
         String path="Data/SalarySyntax.xlsx";
         FileInputStream fileInputStream=new FileInputStream(path);
