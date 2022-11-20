@@ -11,16 +11,22 @@ import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 
-public class ExcelReader {
+public class ExcelReaderMethod {
 
     public static List<Map<String, String>> read(String path) throws IOException {
+        return  ExcelReaderMethod.read(path, "Sheet1");
+
+    }
+
+    public static List<Map<String, String>> read(String path, String SheetName) throws IOException {
         // Reads the data from HardDrive brings it to RAM in the raw form 10101010101010
         // In simple words we can say computer has navigated to that file
         FileInputStream fis = new FileInputStream(path);
         // this class converts the raw bytes to Excel format or in simple words it is that special software
         // that helps us read and write data to an Excel file.
         XSSFWorkbook excel = new XSSFWorkbook(fis);
-        Sheet sheet = excel.getSheet("Sheet1");
+        Sheet sheet = excel.getSheet(SheetName);
+
         int noOfRow = sheet.getPhysicalNumberOfRows();
         // getting the first row so that we can use it as keys for our map
         Row headerRow = sheet.getRow(0);
@@ -47,5 +53,7 @@ public class ExcelReader {
         }
         return excelData;
     }
+
+
 }
 

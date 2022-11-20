@@ -5,8 +5,9 @@ import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import java.io.FileInputStream;
 import java.io.IOException;
-public class ExcelDemo2 {
+public class ExcelReadInMainForLoop {
     public static void main(String[] args) throws IOException {
+
         String path = "/Users/liliya.khusainova/Documents/QAStudy/SDETBatch14Java/Data/SalarySyntax.xlsx";
         FileInputStream fileInputStream = new FileInputStream(path);
         XSSFWorkbook excel = new XSSFWorkbook(fileInputStream);

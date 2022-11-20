@@ -21,7 +21,7 @@ Set:
 ArrayList Vs LinkedList:
     when most of the time we retrieve the data( get()) we should use ArrayList as it is very fast to retrieve index
     based data as underlying datastructures is an array.
-    When most of the time we manipulate the data(adding removing shifting) add()  remove()
+    When most of the time we manipulate the data(adding removing shifting) add()  remove() - use LinkedList
 Note:
     if else condition
     loops

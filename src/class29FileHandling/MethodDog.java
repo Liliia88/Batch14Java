@@ -1,0 +1,36 @@
+package class29FileHandling;
+
+import Utils.ExcelReaderMethod;
+import class27Map.Dog;
+
+import java.io.IOException;
+import java.util.LinkedHashMap;
+import java.util.Map;
+
+public class MethodDog {
+    public static Dog returnDog(){
+        return new Dog("Fuff","green","German");
+    }
+
+    public static Map<String,String> getMap(){
+        Map<String,String> map=new LinkedHashMap<>();
+        map.put("Apple","Mango");
+
+        return map;
+    }
+
+    public static void main(String[] args) throws IOException {
+        Dog dog=returnDog();
+        System.out.println(dog);
+
+        System.out.println(getMap());
+
+        var data=  ExcelReaderMethod.read("/Users/liliya.khusainova/Documents/QAStudy/SDETBatch14Java/Data/SalarySyntax.xlsx");
+
+        System.out.println(data.get(1));
+        Map<String,String> map=data.get(2);
+        System.out.println(map.get("Age"));
+
+    }
+}
+
