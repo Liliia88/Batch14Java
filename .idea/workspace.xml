@@ -54,7 +54,7 @@
       <recent name="class14ReviewArraysString" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exception3Catch">
+  <component name="RunManager" selected="Application.R214">
     <configuration name="Exception2example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class30Exception.Exception2example" />
       <module name="SDETBatch14Java" />
@@ -94,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="R209" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReplsAllInteresting.R209" />
+    <configuration name="R211IndexOutOfBounds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReplsAllInteresting.R211IndexOutOfBounds" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
@@ -107,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThrowsVsThrows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class30Exception.ThrowsVsThrows" />
+    <configuration name="R214" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReplsAllInteresting.R214" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class30Exception.*" />
+          <option name="PATTERN" value="ReplsAllInteresting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.R214" />
+        <item itemvalue="Application.R211IndexOutOfBounds" />
         <item itemvalue="Application.Exception3Catch" />
         <item itemvalue="Application.Exception2example" />
         <item itemvalue="Application.ExceptionExample1" />
-        <item itemvalue="Application.ThrowsVsThrows" />
-        <item itemvalue="Application.R209" />
       </list>
     </recent_temporary>
   </component>
