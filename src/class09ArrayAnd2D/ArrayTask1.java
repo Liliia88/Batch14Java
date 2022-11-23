@@ -24,6 +24,7 @@ public class ArrayTask1 {
     letter2 [5]="F";
     
     System.out.println(letter2[1]);
+
 	}
 
 }

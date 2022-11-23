@@ -17,7 +17,6 @@ public class ExcelReaderMethod {
         return  ExcelReaderMethod.read(path, "Sheet1");
 
     }
-
     public static List<Map<String, String>> read(String path, String SheetName) throws IOException {
         // Reads the data from HardDrive brings it to RAM in the raw form 10101010101010
         // In simple words we can say computer has navigated to that file

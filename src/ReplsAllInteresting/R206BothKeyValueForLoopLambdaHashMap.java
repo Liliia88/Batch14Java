@@ -2,7 +2,7 @@ package ReplsAllInteresting;
 import java.util.Map.Entry;
 import java.util.HashMap;
 
-public class R206BothKeyValueForLoopLambda {
+public class R206BothKeyValueForLoopLambdaHashMap {
     public static void main(String[] args) {
         HashMap<String,String> words=new HashMap<>();
         words.put("ONE","AAA");

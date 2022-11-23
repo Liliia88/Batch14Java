@@ -8,7 +8,7 @@ public class ArraysReviewAsgharScanner {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		 Scanner scanner=new Scanner(System.in);
+		   Scanner scanner=new Scanner(System.in);
 	        System.out.println("Please Enter the number of dresses you want to buy");
 	        int noOfDresses=scanner.nextInt();
 

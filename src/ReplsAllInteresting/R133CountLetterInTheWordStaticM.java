@@ -1,6 +1,6 @@
 package ReplsAllInteresting;
 
-public class R133CountLetterStaticM {
+public class R133CountLetterInTheWordStaticM {
 
         static int countA (String s) {
             int count=0;

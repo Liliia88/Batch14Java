@@ -2,7 +2,7 @@ package ReplsAllInteresting;
 
 import java.util.HashSet;
 
-public class R197Size {
+public class R197SizeOfHashSet {
     public static void main(String[] args) {
         HashSet<String> hashSet=new HashSet<>();
         hashSet.add("Red");

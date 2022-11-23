@@ -54,48 +54,9 @@
       <recent name="class14ReviewArraysString" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.R214">
-    <configuration name="Exception2example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class30Exception.Exception2example" />
-      <module name="SDETBatch14Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class30Exception.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exception3Catch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class30Exception.Exception3Catch" />
-      <module name="SDETBatch14Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class30Exception.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExceptionExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class30Exception.ExceptionExample1" />
-      <module name="SDETBatch14Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class30Exception.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="R211IndexOutOfBounds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReplsAllInteresting.R211IndexOutOfBounds" />
+  <component name="RunManager" selected="Application.R128TwoStringsWriteEachLetterPoOcheredi">
+    <configuration name="R128TwoStringsWriteEachLetterPoOcheredi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReplsAllInteresting.R128TwoStringsWriteEachLetterPoOcheredi" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
@@ -107,8 +68,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="R214" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReplsAllInteresting.R214" />
+    <configuration name="R133CountLetterInTheWordStaticM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReplsAllInteresting.R133CountLetterInTheWordStaticM" />
+      <module name="SDETBatch14Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ReplsAllInteresting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="R216Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReplsAllInteresting.R216Numbers" />
+      <module name="SDETBatch14Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ReplsAllInteresting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="R217DublicatesHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReplsAllInteresting.R217DublicatesHashSet" />
+      <module name="SDETBatch14Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ReplsAllInteresting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="R226Revers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReplsAllInteresting.R226Revers" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.R214" />
-        <item itemvalue="Application.R211IndexOutOfBounds" />
-        <item itemvalue="Application.Exception3Catch" />
-        <item itemvalue="Application.Exception2example" />
-        <item itemvalue="Application.ExceptionExample1" />
+        <item itemvalue="Application.R128TwoStringsWriteEachLetterPoOcheredi" />
+        <item itemvalue="Application.R133CountLetterInTheWordStaticM" />
+        <item itemvalue="Application.R217DublicatesHashSet" />
+        <item itemvalue="Application.R216Numbers" />
+        <item itemvalue="Application.R226Revers" />
       </list>
     </recent_temporary>
   </component>

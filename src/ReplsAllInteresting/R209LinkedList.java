@@ -2,7 +2,7 @@ package ReplsAllInteresting;
 import java.util.LinkedHashMap;
 import java.util.LinkedList;
 import java.util.Map;
-public class R209 {
+public class R209LinkedList {
         public static void main(String[] args) {
             LinkedList<Map<String,Object>> dataList=new LinkedList<>();
 

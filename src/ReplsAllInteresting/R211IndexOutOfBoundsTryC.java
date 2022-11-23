@@ -1,6 +1,6 @@
 package ReplsAllInteresting;
 
-public class R211IndexOutOfBounds {
+public class R211IndexOutOfBoundsTryC {
     public static void main (String[] args) {
         try {
             int[] a = {1};
