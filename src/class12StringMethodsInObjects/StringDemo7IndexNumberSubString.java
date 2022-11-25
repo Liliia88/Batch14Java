@@ -1,4 +1,4 @@
-package class12StringMethods.StringMethodsInObjects;
+package class12StringMethodsInObjects;
 
 public class StringDemo7IndexNumberSubString {
 

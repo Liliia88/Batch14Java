@@ -1,6 +1,6 @@
 package class08NestedForLoopBreakContin;
 
-public class AselPracticeForLoop {
+public class AselInterviewPyramid {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

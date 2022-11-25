@@ -1,6 +1,6 @@
 package ReplsAllInteresting;
 
-public class R225ReverseNumbers {
+public class R225ReverseNumbersMe {
     public static void main(String[] args) {
         System.out.println(reverseInteger(123));
     }

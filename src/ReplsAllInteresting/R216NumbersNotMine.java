@@ -2,7 +2,7 @@ package ReplsAllInteresting;
 
 import java.util.Arrays;
 
-public class R216Numbers {
+public class R216NumbersNotMine {
     public static int[] ArraySumToZero(int N) {
 
         int[] num = new int[N];

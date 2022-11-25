@@ -1,6 +1,6 @@
 package ReplsAllInteresting;
 
-public class R226ReversSentence {
+public class R226ReversSentenceMe {
     public static void main(String[] args) {
         System.out.println(reverse("I am a java Programmer"));
     }

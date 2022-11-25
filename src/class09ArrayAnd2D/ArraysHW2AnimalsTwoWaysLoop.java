@@ -1,6 +1,6 @@
 package class09ArrayAnd2D;
 
-public class ArraysHW2AnimalsTwoWays {
+public class ArraysHW2AnimalsTwoWaysLoop {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

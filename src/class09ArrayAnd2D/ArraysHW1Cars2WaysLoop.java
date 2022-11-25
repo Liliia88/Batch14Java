@@ -1,6 +1,6 @@
 package class09ArrayAnd2D;
 
-public class ArraysHW1Cars2Ways {
+public class ArraysHW1Cars2WaysLoop {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

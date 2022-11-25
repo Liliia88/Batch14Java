@@ -1,6 +1,6 @@
 package class09ArrayAnd2D;
 
-public class repls83 {
+public class repls832DArraySumInEachRow {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

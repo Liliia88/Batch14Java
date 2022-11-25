@@ -1,4 +1,4 @@
-package class12StringMethods.StringMethodsInObjects;
+package class12StringMethodsInObjects;
 
 public class StringDemo3StartsEndsContainsTrim {
 
@@ -7,7 +7,7 @@ public class StringDemo3StartsEndsContainsTrim {
 		String str=" Olena";
 		System.out.println(str);
 		
-		
+
 		System.out.println(str.trim());
 		
 		

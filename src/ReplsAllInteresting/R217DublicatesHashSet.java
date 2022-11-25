@@ -7,16 +7,19 @@ public class R217DublicatesHashSet {
     static int countDuplicates(List<Integer> numbers) {
         System.out.println(numbers);
         //int sum = 0;
-        HashSet<Integer> hashSet=new HashSet<>();
+        HashSet<Integer> hashSet = new HashSet<>();
+       /*
         for (int a = 0; a < numbers.size(); a++) {
             int num=0;
-            for (int l = a + 1; l < numbers.size(); l++) {
+            for (int l = 0; l < a; l++) {
                 if (numbers.get(a) == numbers.get(l)) {
                     hashSet.add(numbers.get(a));
                     break;
                 }
             }
-        }
+            */
+        hashSet.addAll(numbers);
+
         return hashSet.size();
     }
     public static void main(String[] args) {
